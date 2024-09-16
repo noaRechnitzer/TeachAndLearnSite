@@ -1,0 +1,8 @@
+.price_bying{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.save_distance{
+    margin:10px;
+}

@@ -1,0 +1,21 @@
+.back_img{
+    background-image: url('../../public/back_img.jpg');
+    /* background-image: url('https://img.freepik.com/free-photo/keyboard-message-text-sms-concept_53876-120449.jpg?w=1380&t=st=1708018986~exp=1708019586~hmac=a2b6c97a7fd7081cd48b90f1b3a17a6940f907fc411915739d3de60008b8f5d3'); */
+    height: 120vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.animation{
+    padding-top: 110px;
+    padding-left: 300px;
+    font-size: 20pt;
+    color: aliceblue;
+    width: 50vw;
+    /* padding: 10px; */
+    margin: 10px;
+}
+.logo{
+    height: 70px;
+}
